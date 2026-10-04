@@ -6,7 +6,7 @@ Gerador de senhas seguras desenvolvido em Java, com opções de customização.
 - Geração de senha segura com `SecureRandom`
 - Garante pelo menos um caractere de cada tipo selecionado
 - Opções configuráveis: tamanho, maiúsculas, números, símbolos
-- Medidor de força da senha (Fraca / Média / Forte / Muito forte)
+
 ## Tecnologias
  
 - Java
